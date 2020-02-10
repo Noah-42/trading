@@ -1,0 +1,25 @@
+.btn-green {
+  color: #B5B5B5;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  font-family: 'Montserrat', sans-serif;;
+  font-weight: 800;
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.btn-green:hover {
+  color: green;
+  text-decoration: none;
+  text-align: center;
+}
+.btn-green {
+  background-color: lightgreen;
+  color : white;
+  padding: 11px 15px;
+  border-radius: 4px;
+}
+.btn-green:hover {
+  background-color: #303030;
+  color : white;
+}
